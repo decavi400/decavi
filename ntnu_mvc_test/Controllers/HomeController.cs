@@ -17,7 +17,8 @@ namespace ntnu_mvc_test.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
-            return View();//...........
+            return View();
+            //yee
         }
 
         public ActionResult Contact()

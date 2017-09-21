@@ -10,7 +10,7 @@ namespace ntnu_mvc_test.Controllers
     {
         public ActionResult Index()
         {
-            return View();//
+            return View();//123132132131
         }
 
         public ActionResult About()
@@ -18,7 +18,6 @@ namespace ntnu_mvc_test.Controllers
             ViewBag.Message = "Your application description page.";
 
             return View();
-            //yeeeee
         }
 
         public ActionResult Contact()
